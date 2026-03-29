@@ -34,7 +34,9 @@ _MethodChain.cs
 *.[Cc]ache
 !*.[Cc]ache/
 
-## Others (WinForms/Console/Library)
+## Others (WinForms/Console/Library/DB)
 *.pdb
 *.aps
 *.LNK
+*.mdf
+*.ldf
